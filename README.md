@@ -36,6 +36,9 @@
 
 ## Installation
 
+Download: https://drive.google.com/file/d/1bAlyq5w7GZXGZX0fM1GNEGVO-0c7s8cn/view?usp=sharing
+
 Simply run and install this app just like any other app
+
 Note: This app is still in development, if you maange to get this app from this link than you're one of the choosen one to try it.
 
