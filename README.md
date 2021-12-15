@@ -12,7 +12,9 @@
   </p>
 </p>
 
-![Animation](assets/images/deco.gif)
+<p align="center">
+  <img src="assets/images/deco.gif" alt="animated" />
+</p>
 
 [![OS](https://img.shields.io/badge/OS-Android-0E84E5)](#)
 [![OS](https://img.shields.io/badge/-Flutter-41D0FD)](#)
