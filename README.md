@@ -1,16 +1,39 @@
-# decofuture2
+<br />
+<p align="center">
+  <a href="https://github.com/nashirat/Decofuture">
+    <img src="assets/images/launcher.png" width="70" height="70"alt="Logo">
+  </a>
 
-A new Flutter project.
+  <h3 align="center">Decofuture</h3>
+  <p align="center">
+    AR Furniture Application
+    <br>
+    <br>
+  </p>
+</p>
 
-## Getting Started
+![Animation](assets/images/hero.gif)
 
-This project is a starting point for a Flutter application.
+[![OS](https://img.shields.io/badge/OS-Android-0E84E5)](#)
+[![OS](https://img.shields.io/badge/-Flutter-41D0FD)](#)
+## About the App
 
-A few resources to get you started if this is your first Flutter project:
+<p align="justify">Decofuture is an AR Furniture marketplace application that aims to bring furniture as close as possible to real life in your room before buying it, so you wont be dissapointed!
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Made With
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Google ARCore
+- ModelViewer
+- Firebase 
+
+## Requirements
+
+- Android 7.0+
+
+## Installation
+
+Simply run and install this app just like any other app
+Note: This app is still in development, if you maange to get this app from this link than you're one of the choosen one to try it.
+
