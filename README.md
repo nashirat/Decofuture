@@ -12,7 +12,7 @@
   </p>
 </p>
 
-![Animation](assets/images/hero.mp4)
+![Animation](assets/images/deco.gif)
 
 [![OS](https://img.shields.io/badge/OS-Android-0E84E5)](#)
 [![OS](https://img.shields.io/badge/-Flutter-41D0FD)](#)
