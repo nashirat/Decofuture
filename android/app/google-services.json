@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193060013958",
+    "project_id": "decofuture-219a7",
+    "storage_bucket": "decofuture-219a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193060013958:android:40910ac70f8dc6d4168e07",
+        "android_client_info": {
+          "package_name": "com.example.decofuture2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193060013958-tamrbrn9aj744db8nhf70pmqndc0kvs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9USD9b7qdCP-tLitniq3xHrQDLoMTzP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193060013958-tamrbrn9aj744db8nhf70pmqndc0kvs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
