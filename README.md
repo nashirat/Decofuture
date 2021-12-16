@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/nashirat/Decofuture">
-    <img src="assets/images/newlogo.png" width="70" height="70"alt="Logo">
+    <img src="assets/images/newlogo.png" width="70" alt="Logo">
   </a>
 
   <h3 align="center">Decofuture</h3>
