@@ -13,6 +13,14 @@
 </p>
 
 <p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.retruxstudio.decofuture2">Play Store Link</a>
+    <br>
+    <br>
+  </p>
+</p>
+
+
+<p align="center">
   <img src="assets/images/deco.gif" alt="animated" />
 </p>
 
